@@ -1,4 +1,4 @@
 # Hello-World
 Studing machine-learing
 
-i hope i can learn english well
+i hope English can learned well by me
